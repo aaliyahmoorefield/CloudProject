@@ -1,3 +1,2 @@
 # CloudProject
-Cloud based smart parking system designed to help university students locate available parking in real time.
- 
+The Campus Smart Parking System is a cloud-based solution designed to help university students locate available parking in real time. The system uses Google Cloud services such as Compute Engine, VPC Network, Pub/Sub, Cloud Functions, Firestore, Cloud Load Balancing, Cloud IAM, Cloud Logging, Cloud Monitoring, and Secret Manager to collect parking updates, process them securely, and display current availability through a scalable application. This architecture matters because it improves campus mobility, reduces time spent searching for parking, and demonstrates secure, event-driven cloud design.
